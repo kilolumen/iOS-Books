@@ -212,3 +212,4 @@ Swift
 ======
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+* [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
